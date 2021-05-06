@@ -14,6 +14,9 @@ logBase = config['logging']['logBase'] + '.modules.test'
 def main(logger, resultsDict):
     
     try:
+        '''
+        jupyter nbconvert --to html --no-input experiment01.ipynb
+        '''
         testConfig = json.load( open('../config/modules/testModule/test.json', 'r') )
 
     except Exception as e:
