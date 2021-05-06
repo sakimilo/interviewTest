@@ -1,0 +1,10 @@
+src.modules package
+===================
+
+Module contents
+---------------
+
+.. automodule:: src.modules
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,30 @@
+src.lib.argParsers package
+==========================
+
+Submodules
+----------
+
+src.lib.argParsers.addAllParsers module
+---------------------------------------
+
+.. automodule:: src.lib.argParsers.addAllParsers
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.lib.argParsers.config module
+--------------------------------
+
+.. automodule:: src.lib.argParsers.config
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: src.lib.argParsers
+   :members:
+   :undoc-members:
+   :show-inheritance:

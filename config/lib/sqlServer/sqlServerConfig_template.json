@@ -1,0 +1,10 @@
+{
+    "loginInfo" : {
+        "connInfo" : {
+            "driver"             : "",
+            "server"             : "127.0.0.1",
+            "trusted_connection" : "yes"
+        }
+    }
+
+}

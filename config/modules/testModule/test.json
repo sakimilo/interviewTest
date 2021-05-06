@@ -1,0 +1,11 @@
+{
+    "dataSource": {
+        "database" : "",
+        "tableName": ""
+    },
+    "inputList": [
+        [1, 2],
+        ["a", "b"],
+        ["a", 1]
+    ]
+}

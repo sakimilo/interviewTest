@@ -1,0 +1,31 @@
+src package
+===========
+
+Subpackages
+-----------
+
+.. toctree::
+
+   src.lib
+   src.logs
+   src.modules
+
+Submodules
+----------
+
+src.main module
+---------------
+
+.. automodule:: src.main
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: src
+   :members:
+   :undoc-members:
+   :show-inheritance:
