@@ -2,6 +2,10 @@
 
 This is the repository for keeping code of the interview test.
 
+Aloha baby please screen shot below
+[![shareOfVaccination](https://ourworldindata.org/grapher/share-people-vaccinated-covid.svg)](https://ourworldindata.org/grapher/share-people-vaccinated-covid)
+
+
 ## Getting Started
 
 Make sure Git is installed in your system.
